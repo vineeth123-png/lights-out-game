@@ -1,2 +1,2 @@
-# lights-out-game
+# hangman-exercise
 Created with CodeSandbox
